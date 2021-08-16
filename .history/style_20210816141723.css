@@ -37,7 +37,7 @@ a:focus {
 .btn {
   padding: 10px 25px;
   border: none;
-  border-radius: 2px;
+  border-radius: 1px;
 }
 
 .btn-accent {

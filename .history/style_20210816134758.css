@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+}
+
+h1,
+h2,
+p {
+  margin-top: 0;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 24px;
+  color: #ef5839;
+}
+
+h1,
+h2,
+strong {
+  font-weight: 900;
+}
+a {
+  color: #ef5839;
+}
+
+a:hover,
+a:focus {
+  color: #d4b44c;
+}
+
+.container {
+  padding: 2rem 4rem;
+}
+header,
+.section-two {
+  background-color: #2e354f;
+  color: white;
+}
+
+.btn {
+  padding: 0.5rem 0.9rem;
+}
