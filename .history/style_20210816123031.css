@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+h2,
+p {
+  margin-top: 0;
+}
